@@ -104,3 +104,19 @@ section h2 {
 #economy .articles article a {
     background-color: goldenrod;
 }
+
+#tecnology {
+    background-color: rgba(51, 169, 247, 0.281);
+}
+
+#tecnology .articles article a { 
+    background-color: rgb(62, 62, 201);
+}
+
+#war {
+    background-color: rgba(250, 62, 62, 0.603);
+}
+
+#war .articles article a {
+    background-color: red;
+}
